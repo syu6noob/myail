@@ -1,7 +1,8 @@
 {
     "name": "syu6noob/myail",
+    "description"; "A Simple Email Client for PHP",
     "type": "library",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Myail\\": "src/"
