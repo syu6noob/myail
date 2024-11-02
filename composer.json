@@ -1,6 +1,6 @@
 {
     "name": "syu6noob/myail",
-    "description"; "A Simple Email Client for PHP",
+    "description": "A Simple Email Client for PHP",
     "type": "library",
     "license": "Apache-2.0",
     "autoload": {
