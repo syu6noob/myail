@@ -1,9 +1,19 @@
-<p align="center">
-  <h1>
-    <img width="50%" src="./.resources/myail_logo_text.svg" />
-  </h1>
-  <p>A Simple Email Client for PHP</p>
-</p>
+<div align="center">
+  
+<h1>
+  <img width="40%" src="/resources/myail_logo_text.svg" />
+</h1>
+  
+<p>🐱 A Simple Email Client for PHP</p>
+  
+💡 [What is Myail?](#-what-is-myail) •
+ ✨ [Feature](#-feature) •
+ ⚡ [Requirement](#-requirement) •
+ 🛠️ [Contribution](#%EF%B8%8F-contribution) •
+ 💬 [Feedback](#-feedback) •
+ 📄 [LICENSE](#-license)
+
+</div>
 
 ## 💡 What is Myail?
 
@@ -31,7 +41,7 @@ If you'd like to help develop these features, contributions are welcome!
 - ext-mbstring
 
 ## 🚀 Usage
-For a complete example, please refer to [example.php](./.resources/example.php).
+For a complete example, please refer to [example.php](./resources/example.php).
 
 ### Installation
 
