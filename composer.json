@@ -1,0 +1,21 @@
+{
+    "name": "syu6noob/myail",
+    "type": "library",
+    "license": "Apache 2.0",
+    "autoload": {
+        "psr-4": {
+            "Myail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "syu6noob"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+  "require": {
+    "ext-mbstring": "*"
+  }
+}
